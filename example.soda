@@ -1,8 +1,6 @@
 ;; This code shows my current thoughts on what the language should look like. Also this is what comments should look like
 ;; Everything in this language is a expression except assignments
 
-;; This is only the first idea, so don't come over me because there are some logical errors... Have you heard proof of conecept?
-
 const MyStruct = struct {
   @init_properties: {
     int my_int,
